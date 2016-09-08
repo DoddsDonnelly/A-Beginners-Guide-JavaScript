@@ -1,0 +1,5 @@
+﻿.wrapper { width: 590px;height: 390px;padding: 5px;overflow: scroll;font-size: 1em;font-family: Verdana, sans-serif;}
+.headline { font-weight: bold;font-size: 1.8em;font-family: Arial, sans-serif;background-color: #6699cc;text-align: center;
+}
+.story_nav{ margin: 0 0 10px 0;padding: 2px;background-color: #DDD;word-spacing: 20px;text-align: center;}
+.story{ margin-bottom: 10px;}
