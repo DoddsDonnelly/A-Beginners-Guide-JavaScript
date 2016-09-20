@@ -1,10 +1,10 @@
 ﻿var r_images = [
-    "Images/1.png",
-    "Images/2.png",
-    "Images/3.png",
-    "Images/4.png",
-    "Images/5.png",
-    "Images/6.png"
+    "/Images/1.png",
+    "/Images/2.png",
+    "/Images/3.png",
+    "/Images/4.png",
+    "/Images/5.png",
+    "/Images/6.png"
 ],
 im = document.getElementById("my_image"),
 rand_int = Math.floor(Math.random() * 6);
